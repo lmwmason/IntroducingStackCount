@@ -303,10 +303,6 @@ print(Stack(0,0))`;
                             </dd>
 
                             <dt><strong>재귀 호출 및 메모이제이션</strong></dt>
-                            <dd>
-                                다음 연산으로 <strong>Push (pushCnt+1)</strong>와 <strong>Pop (popCnt+1)</strong>을 시도한 경우의 수를 더하여 반환합니다.
-                                <br/>동일한 (pushCnt, popCnt) 쌍에 대해 중복 계산을 피하기 위해 **메모이제이션**을 사용합니다.
-                            </dd>
                         </dl>
                     </section>
                 </div>
