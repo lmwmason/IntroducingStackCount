@@ -301,8 +301,6 @@ print(Stack(0,0))`;
                                     <li><strong>실패:</strong> pushCnt &lt; popCnt (Pop이 Push보다 많음) 또는 pushCnt &gt; N 또는 popCnt &gt; N &rarr; <code>0</code> 반환.</li>
                                 </ul>
                             </dd>
-
-                            <dt><strong>재귀 호출 및 메모이제이션</strong></dt>
                         </dl>
                     </section>
                 </div>
